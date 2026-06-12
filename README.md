@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-# Hey, Himanshu 👋💪
-### Your big-muscle code warrior, lifting bugs out of production and building systems that scale.
+# Hey, 
+### Your this is ur lean n muscular boi doin , lifting bugs out of production and building systems that scale.
 🚀 Working on: **Reddit OSINT & Tech Intelligence Scrapers • System Design • High-Scale Backend • Instagram & StackOverflow Clones**
 ⚡ C++ • Python • Django • DRF • SQL • REST APIs • Competitive Programming • Always Building, Always Learning
 
