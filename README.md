@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-# Hey, 
-###  .This is ur lean n muscular boi doin , lifting bugs out of production and building systems that scale.
+###  Your lean & muscular boi—squashing production bugs and building systems that actually scale.
 🚀 Working on: **Reddit OSINT & Tech Intelligence Scrapers • System Design • High-Scale Backend • Instagram & StackOverflow Clones**
 ⚡ C++ • Python • Django • DRF • SQL • REST APIs • Competitive Programming • Always Building, Always Learning
 
