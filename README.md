@@ -28,6 +28,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=hima97u&icon=9&color=11)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=hima97u&label=Profile%20Views&color=0e75b6&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
